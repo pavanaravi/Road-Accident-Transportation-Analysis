@@ -1,4 +1,5 @@
 🚦 Road Accident Transportation  Analysis 
+
 An end-to-end data analytics project that cleans a real-world road transportation accident dataset and turns it into a suite of dashboards — from hotspot mapping and severity analysis to predictive threat scoring and executive reporting — for road safety decision-making.
 
 📌 Project Overview
